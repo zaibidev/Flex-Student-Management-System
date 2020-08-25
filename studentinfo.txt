@@ -1,0 +1,21 @@
+Student Name :zohaib
+Registration number :123
+Quiz 01 marks : 5
+Quiz 02 marks : 10
+Quiz 03 marks : 3
+Mid Term marks : 30
+Term marks :  50
+Student Name :sarim
+Registration number :456
+Quiz 01 marks : 2
+Quiz 02 marks : 5
+Quiz 03 marks : 10
+Mid Term marks : 25
+Term marks :  45
+Student Name :maaz
+Registration number :789
+Quiz 01 marks : 2
+Quiz 02 marks : 6
+Quiz 03 marks : 7
+Mid Term marks : 28
+Term marks :  42
