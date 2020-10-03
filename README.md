@@ -16,5 +16,5 @@
 •	Purely coded in C++.
 •	Visual Studio 2015 (also works on Dev C++ or any other)
 •	Object Oriented (uses classes etc.)
-•	Data Structures (using nodes, stacks, ques, linked lists,
+•	Data Structures (using nodes, stacks, ques, linked lists, binary trees
 •	File Handling (Input, output and updates file)
